@@ -1,4 +1,4 @@
-# FlareGPT – AI-Powered Foundation for WordPress Plugins
+# FlareGPT – AI Wordpress plugin (coming soon)
 
 FlareGPT is a powerful AI integration plugin for WordPress that provides seamless access to advanced AI-driven features, including automated SEO optimization, AI-generated images, and intelligent spam protection. Simply enter your API key from [flaregpt.ai](https://flaregpt.ai), and you're ready to unlock the full potential of AI—without requiring any developer knowledge.
 

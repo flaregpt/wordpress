@@ -26,11 +26,11 @@ With just your FlareGPT API key, the plugin seamlessly integrates AI capabilitie
 ✅ **Extendable & Scalable** – Acts as a base for additional AI-powered plugins.
 
 ## 🛠️ Installation
-1. Download the latest version of FlareGPT from [GitHub](https://github.com/your-repository).
+1. Download the latest version of FlareGPT (coming soon).
 2. Upload the plugin to your WordPress `/wp-content/plugins/` directory.
 3. Activate the plugin through the WordPress admin panel.
-4. Enter your API key from [flaregpt.ai](https://flaregpt.ai) in the plugin settings.
-5. Start using AI-driven features in your WordPress site!
+4. Enter your API key from [flaregpt.ai](https://flaregpt.ai) in the plugin settings (coming soon).
+5. Start using AI in your WordPress site!
 
 ## 📚 Documentation
 For detailed setup instructions, visit our [official documentation](https://flaregpt.ai/docs).
